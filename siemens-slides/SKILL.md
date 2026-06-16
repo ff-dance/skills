@@ -25,8 +25,9 @@ description: Generate Siemens-style slides, ppt images, and presentation slide i
 
 1. 先读 `references/style-guide.md`，锁定品牌气质、色板、字体观感、组件规则和禁忌项。
 2. 再读 `references/layouts.md`，选择最接近页面类型的 layout 和主参考图。
-3. 打开主参考 slide，自行观察并提炼版式特征；不要把本地路径当作模型可见输入。
-4. 必须使用 `$imagegen` 直接生成最终图片，prompt 中优先写清楚：
+3. 如果用户任务明显依赖局部构件语言、箭头、节点、图标、标签或流程件，先读 `references/components-cheatsheet.md`，需要更细来源解释时再读 `references/components.md`。
+4. 打开主参考 slide，自行观察并提炼版式特征；不要把本地路径当作模型可见输入。
+5. 必须使用 `$imagegen` 直接生成最终图片，prompt 中优先写清楚：
    - 页面类型与 layout
    - 大框架布局
    - 栅格系统与对齐关系
@@ -61,6 +62,9 @@ description: Generate Siemens-style slides, ppt images, and presentation slide i
 - 官方主色：Deep Blue `#000028`、Siemens Petrol `#009999`、Light Petrol `#00C1B6`、Advanta Green `#E6E65F`、White `#FFFFFF`。
 - 字体观感：中文接近 `PingFang SC`，英文和数字接近 `Arial`。
 - Box、card、信息块、表格块必须使用直角矩形，不使用圆角。
+- 编号 badge 默认使用正方形或直角矩形，不使用 trapezoid、wedge 或 home-plate。
+- 内容 text 区域、说明框、注释框默认不用虚线边框；优先无边框，必要时只用极细实线。
+- 底部重点内容区、总结条、takeaway strip 默认使用单一主色背景，不做多色并排卡片。
 - 不允许出现无依据的大面积空白；留白必须服务于栅格、层级和阅读节奏。
 - 本地文件路径只是 agent 的检索线索，不是 `$imagegen` 能直接“看见”的参考图输入。
 - 默认中文优先，除非用户明确要求英文。
@@ -71,4 +75,7 @@ description: Generate Siemens-style slides, ppt images, and presentation slide i
 
 - 风格与色板：`references/style-guide.md`
 - 布局说明与选型建议：`references/layouts.md`
+- 组件速查表：`references/components-cheatsheet.md`
+- 组件词典与 raw PPT 归类：`references/components.md`
+- 正式组件参考资产：`assets/reference-components/shape-assets/`
 - 品牌与示例图资产：`assets/branding/`、`assets/reference-slides/`

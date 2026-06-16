@@ -1,0 +1,17 @@
+{
+  "pptx": "assets/raw/06_Logos.pptx",
+  "output_dir": "assets/raw/exported-shape-assets-svg-v2/06_Logos",
+  "stats": {
+    "slides": 4,
+    "shape_candidates": 4,
+    "connector_candidates": 0,
+    "exported_assets": 0,
+    "skipped_text_shapes": 1,
+    "skipped_excluded_geom": 3,
+    "skipped_empty_render": 0,
+    "skipped_zero_size": 0,
+    "skipped_duplicates": 0
+  },
+  "exports": [],
+  "duplicates": []
+}

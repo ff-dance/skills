@@ -1,0 +1,367 @@
+{
+  "pptx": "assets/raw/09_SiemensIcons_negative.pptx",
+  "output_dir": "assets/raw/exported-shape-assets-svg-v2/09_SiemensIcons_negative",
+  "stats": {
+    "slides": 44,
+    "shape_candidates": 127,
+    "connector_candidates": 0,
+    "exported_assets": 53,
+    "skipped_text_shapes": 1,
+    "skipped_excluded_geom": 59,
+    "skipped_empty_render": 9,
+    "skipped_zero_size": 0,
+    "skipped_duplicates": 5
+  },
+  "exports": [
+    {
+      "slide": 3,
+      "element_name": "Freeform 5",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/09_SiemensIcons_negative/slide003_id7_custGeom_Freeform_5.svg"
+    },
+    {
+      "slide": 4,
+      "element_name": "Freeform 5",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/09_SiemensIcons_negative/slide004_id7_custGeom_Freeform_5.svg"
+    },
+    {
+      "slide": 5,
+      "element_name": "Freeform 5",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/09_SiemensIcons_negative/slide005_id7_custGeom_Freeform_5.svg"
+    },
+    {
+      "slide": 6,
+      "element_name": "Freeform 5",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/09_SiemensIcons_negative/slide006_id7_custGeom_Freeform_5.svg"
+    },
+    {
+      "slide": 7,
+      "element_name": "Freeform 5",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/09_SiemensIcons_negative/slide007_id7_custGeom_Freeform_5.svg"
+    },
+    {
+      "slide": 7,
+      "element_name": "Freeform 6",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/09_SiemensIcons_negative/slide007_id8_custGeom_Freeform_6.svg"
+    },
+    {
+      "slide": 9,
+      "element_name": "Freeform 6",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/09_SiemensIcons_negative/slide009_id8_custGeom_Freeform_6.svg"
+    },
+    {
+      "slide": 10,
+      "element_name": "Freeform 5",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/09_SiemensIcons_negative/slide010_id7_custGeom_Freeform_5.svg"
+    },
+    {
+      "slide": 11,
+      "element_name": "Freeform 5",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/09_SiemensIcons_negative/slide011_id7_custGeom_Freeform_5.svg"
+    },
+    {
+      "slide": 12,
+      "element_name": "Freeform 5",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/09_SiemensIcons_negative/slide012_id7_custGeom_Freeform_5.svg"
+    },
+    {
+      "slide": 13,
+      "element_name": "Freeform 5",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/09_SiemensIcons_negative/slide013_id7_custGeom_Freeform_5.svg"
+    },
+    {
+      "slide": 14,
+      "element_name": "Freeform 5",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/09_SiemensIcons_negative/slide014_id7_custGeom_Freeform_5.svg"
+    },
+    {
+      "slide": 15,
+      "element_name": "Freeform 6",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/09_SiemensIcons_negative/slide015_id8_custGeom_Freeform_6.svg"
+    },
+    {
+      "slide": 16,
+      "element_name": "Freeform 5",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/09_SiemensIcons_negative/slide016_id7_custGeom_Freeform_5.svg"
+    },
+    {
+      "slide": 17,
+      "element_name": "Freeform 5",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/09_SiemensIcons_negative/slide017_id7_custGeom_Freeform_5.svg"
+    },
+    {
+      "slide": 17,
+      "element_name": "Freeform 6",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/09_SiemensIcons_negative/slide017_id8_custGeom_Freeform_6.svg"
+    },
+    {
+      "slide": 18,
+      "element_name": "Freeform 5",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/09_SiemensIcons_negative/slide018_id7_custGeom_Freeform_5.svg"
+    },
+    {
+      "slide": 19,
+      "element_name": "Freeform 5",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/09_SiemensIcons_negative/slide019_id7_custGeom_Freeform_5.svg"
+    },
+    {
+      "slide": 20,
+      "element_name": "Freeform 5",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/09_SiemensIcons_negative/slide020_id7_custGeom_Freeform_5.svg"
+    },
+    {
+      "slide": 21,
+      "element_name": "Freeform 5",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/09_SiemensIcons_negative/slide021_id7_custGeom_Freeform_5.svg"
+    },
+    {
+      "slide": 21,
+      "element_name": "Freeform 6",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/09_SiemensIcons_negative/slide021_id8_custGeom_Freeform_6.svg"
+    },
+    {
+      "slide": 21,
+      "element_name": "Freeform 7",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/09_SiemensIcons_negative/slide021_id9_custGeom_Freeform_7.svg"
+    },
+    {
+      "slide": 21,
+      "element_name": "Freeform 8",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/09_SiemensIcons_negative/slide021_id10_custGeom_Freeform_8.svg"
+    },
+    {
+      "slide": 22,
+      "element_name": "Freeform 5",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/09_SiemensIcons_negative/slide022_id7_custGeom_Freeform_5.svg"
+    },
+    {
+      "slide": 23,
+      "element_name": "Freeform 5",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/09_SiemensIcons_negative/slide023_id7_custGeom_Freeform_5.svg"
+    },
+    {
+      "slide": 23,
+      "element_name": "Freeform 6",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/09_SiemensIcons_negative/slide023_id8_custGeom_Freeform_6.svg"
+    },
+    {
+      "slide": 24,
+      "element_name": "Freeform 5",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/09_SiemensIcons_negative/slide024_id7_custGeom_Freeform_5.svg"
+    },
+    {
+      "slide": 24,
+      "element_name": "Freeform 6",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/09_SiemensIcons_negative/slide024_id8_custGeom_Freeform_6.svg"
+    },
+    {
+      "slide": 25,
+      "element_name": "Freeform 5",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/09_SiemensIcons_negative/slide025_id7_custGeom_Freeform_5.svg"
+    },
+    {
+      "slide": 26,
+      "element_name": "Freeform 5",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/09_SiemensIcons_negative/slide026_id7_custGeom_Freeform_5.svg"
+    },
+    {
+      "slide": 26,
+      "element_name": "Freeform 6",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/09_SiemensIcons_negative/slide026_id8_custGeom_Freeform_6.svg"
+    },
+    {
+      "slide": 26,
+      "element_name": "Oval 7",
+      "kind": "ellipse",
+      "output_file": "exported-shape-assets-svg-v2/09_SiemensIcons_negative/slide026_id9_ellipse_Oval_7.svg"
+    },
+    {
+      "slide": 27,
+      "element_name": "Freeform 6",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/09_SiemensIcons_negative/slide027_id8_custGeom_Freeform_6.svg"
+    },
+    {
+      "slide": 27,
+      "element_name": "Freeform 7",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/09_SiemensIcons_negative/slide027_id9_custGeom_Freeform_7.svg"
+    },
+    {
+      "slide": 28,
+      "element_name": "Freeform 5",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/09_SiemensIcons_negative/slide028_id7_custGeom_Freeform_5.svg"
+    },
+    {
+      "slide": 29,
+      "element_name": "Freeform 5",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/09_SiemensIcons_negative/slide029_id7_custGeom_Freeform_5.svg"
+    },
+    {
+      "slide": 29,
+      "element_name": "Freeform 6",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/09_SiemensIcons_negative/slide029_id8_custGeom_Freeform_6.svg"
+    },
+    {
+      "slide": 31,
+      "element_name": "Freeform 5",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/09_SiemensIcons_negative/slide031_id7_custGeom_Freeform_5.svg"
+    },
+    {
+      "slide": 32,
+      "element_name": "Oval 5",
+      "kind": "ellipse",
+      "output_file": "exported-shape-assets-svg-v2/09_SiemensIcons_negative/slide032_id7_ellipse_Oval_5.svg"
+    },
+    {
+      "slide": 34,
+      "element_name": "Freeform 5",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/09_SiemensIcons_negative/slide034_id7_custGeom_Freeform_5.svg"
+    },
+    {
+      "slide": 35,
+      "element_name": "Freeform 5",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/09_SiemensIcons_negative/slide035_id7_custGeom_Freeform_5.svg"
+    },
+    {
+      "slide": 36,
+      "element_name": "Freeform 5",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/09_SiemensIcons_negative/slide036_id7_custGeom_Freeform_5.svg"
+    },
+    {
+      "slide": 36,
+      "element_name": "Freeform 6",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/09_SiemensIcons_negative/slide036_id8_custGeom_Freeform_6.svg"
+    },
+    {
+      "slide": 37,
+      "element_name": "Freeform 5",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/09_SiemensIcons_negative/slide037_id7_custGeom_Freeform_5.svg"
+    },
+    {
+      "slide": 38,
+      "element_name": "Freeform 5",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/09_SiemensIcons_negative/slide038_id7_custGeom_Freeform_5.svg"
+    },
+    {
+      "slide": 39,
+      "element_name": "Freeform 5",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/09_SiemensIcons_negative/slide039_id7_custGeom_Freeform_5.svg"
+    },
+    {
+      "slide": 39,
+      "element_name": "Freeform 6",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/09_SiemensIcons_negative/slide039_id8_custGeom_Freeform_6.svg"
+    },
+    {
+      "slide": 40,
+      "element_name": "Freeform 5",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/09_SiemensIcons_negative/slide040_id7_custGeom_Freeform_5.svg"
+    },
+    {
+      "slide": 41,
+      "element_name": "Oval 5",
+      "kind": "ellipse",
+      "output_file": "exported-shape-assets-svg-v2/09_SiemensIcons_negative/slide041_id7_ellipse_Oval_5.svg"
+    },
+    {
+      "slide": 41,
+      "element_name": "Freeform 7",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/09_SiemensIcons_negative/slide041_id9_custGeom_Freeform_7.svg"
+    },
+    {
+      "slide": 42,
+      "element_name": "Freeform 5",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/09_SiemensIcons_negative/slide042_id7_custGeom_Freeform_5.svg"
+    },
+    {
+      "slide": 43,
+      "element_name": "Freeform 5",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/09_SiemensIcons_negative/slide043_id7_custGeom_Freeform_5.svg"
+    },
+    {
+      "slide": 43,
+      "element_name": "Freeform 6",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/09_SiemensIcons_negative/slide043_id8_custGeom_Freeform_6.svg"
+    }
+  ],
+  "duplicates": [
+    {
+      "slide": 32,
+      "element_name": "Oval 6",
+      "kind": "ellipse",
+      "duplicate_of": "exported-shape-assets-svg-v2/09_SiemensIcons_negative/slide032_id7_ellipse_Oval_5.svg"
+    },
+    {
+      "slide": 32,
+      "element_name": "Oval 7",
+      "kind": "ellipse",
+      "duplicate_of": "exported-shape-assets-svg-v2/09_SiemensIcons_negative/slide032_id7_ellipse_Oval_5.svg"
+    },
+    {
+      "slide": 41,
+      "element_name": "Oval 6",
+      "kind": "ellipse",
+      "duplicate_of": "exported-shape-assets-svg-v2/09_SiemensIcons_negative/slide041_id7_ellipse_Oval_5.svg"
+    },
+    {
+      "slide": 44,
+      "element_name": "Freeform 5",
+      "kind": "custGeom",
+      "duplicate_of": "exported-shape-assets-svg-v2/09_SiemensIcons_negative/slide036_id7_custGeom_Freeform_5.svg"
+    },
+    {
+      "slide": 44,
+      "element_name": "Oval 7",
+      "kind": "ellipse",
+      "duplicate_of": "exported-shape-assets-svg-v2/09_SiemensIcons_negative/slide032_id7_ellipse_Oval_5.svg"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "pptx": "assets/raw/06_Logos_alt.pptx",
+  "output_dir": "assets/raw/exported-shape-assets-svg-v2/06_Logos_alt",
+  "stats": {
+    "slides": 29,
+    "shape_candidates": 70,
+    "connector_candidates": 0,
+    "exported_assets": 8,
+    "skipped_text_shapes": 4,
+    "skipped_excluded_geom": 57,
+    "skipped_empty_render": 0,
+    "skipped_zero_size": 0,
+    "skipped_duplicates": 1
+  },
+  "exports": [
+    {
+      "slide": 11,
+      "element_name": "Freihandform 91",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/06_Logos_alt/slide011_id13_custGeom_Freihandform_91.svg"
+    },
+    {
+      "slide": 11,
+      "element_name": "Freihandform 92",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/06_Logos_alt/slide011_id14_custGeom_Freihandform_92.svg"
+    },
+    {
+      "slide": 11,
+      "element_name": "Freihandform 93",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/06_Logos_alt/slide011_id15_custGeom_Freihandform_93.svg"
+    },
+    {
+      "slide": 21,
+      "element_name": "Freeform 8",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/06_Logos_alt/slide021_id5_custGeom_Freeform_8.svg"
+    },
+    {
+      "slide": 21,
+      "element_name": "Freeform 9",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/06_Logos_alt/slide021_id6_custGeom_Freeform_9.svg"
+    },
+    {
+      "slide": 22,
+      "element_name": "Freeform 9",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/06_Logos_alt/slide022_id10_custGeom_Freeform_9.svg"
+    },
+    {
+      "slide": 23,
+      "element_name": "Freeform 8",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/06_Logos_alt/slide023_id3_custGeom_Freeform_8.svg"
+    },
+    {
+      "slide": 23,
+      "element_name": "Freeform 9",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/06_Logos_alt/slide023_id4_custGeom_Freeform_9.svg"
+    }
+  ],
+  "duplicates": [
+    {
+      "slide": 22,
+      "element_name": "Freeform 8",
+      "kind": "custGeom",
+      "duplicate_of": "exported-shape-assets-svg-v2/06_Logos_alt/slide021_id5_custGeom_Freeform_8.svg"
+    }
+  ]
+}

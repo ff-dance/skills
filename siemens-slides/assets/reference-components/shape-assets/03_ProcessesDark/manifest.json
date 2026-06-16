@@ -1,0 +1,2233 @@
+{
+  "pptx": "assets/raw/03_ProcessesDark.pptx",
+  "output_dir": "assets/raw/exported-shape-assets-svg-v2/03_ProcessesDark",
+  "stats": {
+    "slides": 41,
+    "shape_candidates": 525,
+    "connector_candidates": 0,
+    "exported_assets": 225,
+    "skipped_text_shapes": 110,
+    "skipped_excluded_geom": 46,
+    "skipped_empty_render": 0,
+    "skipped_zero_size": 0,
+    "skipped_duplicates": 144
+  },
+  "exports": [
+    {
+      "slide": 10,
+      "element_name": "Freeform 3",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide010_id1180675_custGeom_Freeform_3.svg"
+    },
+    {
+      "slide": 10,
+      "element_name": "Freeform 4",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide010_id1180676_custGeom_Freeform_4.svg"
+    },
+    {
+      "slide": 10,
+      "element_name": "Freeform 5",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide010_id1180677_custGeom_Freeform_5.svg"
+    },
+    {
+      "slide": 10,
+      "element_name": "Freeform 50",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide010_id1180722_custGeom_Freeform_50.svg"
+    },
+    {
+      "slide": 10,
+      "element_name": "Freeform 52",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide010_id1180724_custGeom_Freeform_52.svg"
+    },
+    {
+      "slide": 10,
+      "element_name": "Freeform 53",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide010_id1180725_custGeom_Freeform_53.svg"
+    },
+    {
+      "slide": 10,
+      "element_name": "Freeform 60",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide010_id1180732_custGeom_Freeform_60.svg"
+    },
+    {
+      "slide": 10,
+      "element_name": "Freeform 28",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide010_id1180700_custGeom_Freeform_28.svg"
+    },
+    {
+      "slide": 10,
+      "element_name": "Freeform 29",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide010_id1180701_custGeom_Freeform_29.svg"
+    },
+    {
+      "slide": 10,
+      "element_name": "Freeform 30",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide010_id1180702_custGeom_Freeform_30.svg"
+    },
+    {
+      "slide": 10,
+      "element_name": "Freeform 31",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide010_id1180703_custGeom_Freeform_31.svg"
+    },
+    {
+      "slide": 10,
+      "element_name": "Freeform 32",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide010_id1180704_custGeom_Freeform_32.svg"
+    },
+    {
+      "slide": 10,
+      "element_name": "Freeform 7",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide010_id1180679_custGeom_Freeform_7.svg"
+    },
+    {
+      "slide": 10,
+      "element_name": "Freeform 8",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide010_id1180680_custGeom_Freeform_8.svg"
+    },
+    {
+      "slide": 10,
+      "element_name": "Freeform 9",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide010_id1180681_custGeom_Freeform_9.svg"
+    },
+    {
+      "slide": 10,
+      "element_name": "Freeform 10",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide010_id1180682_custGeom_Freeform_10.svg"
+    },
+    {
+      "slide": 10,
+      "element_name": "Freeform 11",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide010_id1180683_custGeom_Freeform_11.svg"
+    },
+    {
+      "slide": 10,
+      "element_name": "Freeform 33",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide010_id1180705_custGeom_Freeform_33.svg"
+    },
+    {
+      "slide": 10,
+      "element_name": "Freeform 34",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide010_id1180706_custGeom_Freeform_34.svg"
+    },
+    {
+      "slide": 10,
+      "element_name": "Freeform 35",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide010_id1180707_custGeom_Freeform_35.svg"
+    },
+    {
+      "slide": 10,
+      "element_name": "Freeform 36",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide010_id1180708_custGeom_Freeform_36.svg"
+    },
+    {
+      "slide": 10,
+      "element_name": "Freeform 37",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide010_id1180709_custGeom_Freeform_37.svg"
+    },
+    {
+      "slide": 10,
+      "element_name": "Freeform 38",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide010_id1180710_custGeom_Freeform_38.svg"
+    },
+    {
+      "slide": 10,
+      "element_name": "Freeform 39",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide010_id1180711_custGeom_Freeform_39.svg"
+    },
+    {
+      "slide": 10,
+      "element_name": "Freeform 12",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide010_id1180684_custGeom_Freeform_12.svg"
+    },
+    {
+      "slide": 10,
+      "element_name": "Freeform 21",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide010_id53_custGeom_Freeform_21.svg"
+    },
+    {
+      "slide": 10,
+      "element_name": "Freeform 22",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide010_id54_custGeom_Freeform_22.svg"
+    },
+    {
+      "slide": 10,
+      "element_name": "Freeform 23",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide010_id55_custGeom_Freeform_23.svg"
+    },
+    {
+      "slide": 10,
+      "element_name": "Freeform 24",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide010_id56_custGeom_Freeform_24.svg"
+    },
+    {
+      "slide": 10,
+      "element_name": "Freeform 25",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide010_id57_custGeom_Freeform_25.svg"
+    },
+    {
+      "slide": 10,
+      "element_name": "Freeform 26",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide010_id58_custGeom_Freeform_26.svg"
+    },
+    {
+      "slide": 10,
+      "element_name": "Freeform 27",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide010_id59_custGeom_Freeform_27.svg"
+    },
+    {
+      "slide": 10,
+      "element_name": "Freeform 40",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide010_id1180712_custGeom_Freeform_40.svg"
+    },
+    {
+      "slide": 10,
+      "element_name": "Freeform 41",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide010_id1180713_custGeom_Freeform_41.svg"
+    },
+    {
+      "slide": 10,
+      "element_name": "Freeform 42",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide010_id1180714_custGeom_Freeform_42.svg"
+    },
+    {
+      "slide": 10,
+      "element_name": "Freeform 43",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide010_id1180715_custGeom_Freeform_43.svg"
+    },
+    {
+      "slide": 10,
+      "element_name": "Freeform 44",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide010_id1180716_custGeom_Freeform_44.svg"
+    },
+    {
+      "slide": 10,
+      "element_name": "Freeform 45",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide010_id1180717_custGeom_Freeform_45.svg"
+    },
+    {
+      "slide": 10,
+      "element_name": "Freeform 46",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide010_id1180718_custGeom_Freeform_46.svg"
+    },
+    {
+      "slide": 10,
+      "element_name": "Freeform 47",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide010_id1180719_custGeom_Freeform_47.svg"
+    },
+    {
+      "slide": 10,
+      "element_name": "Freeform 48",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide010_id1180720_custGeom_Freeform_48.svg"
+    },
+    {
+      "slide": 18,
+      "element_name": "Oval 26",
+      "kind": "ellipse",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182746_ellipse_Oval_26.svg"
+    },
+    {
+      "slide": 18,
+      "element_name": "Freeform 27",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182747_custGeom_Freeform_27.svg"
+    },
+    {
+      "slide": 18,
+      "element_name": "Freeform 28",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182748_custGeom_Freeform_28.svg"
+    },
+    {
+      "slide": 18,
+      "element_name": "Freeform 29",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182749_custGeom_Freeform_29.svg"
+    },
+    {
+      "slide": 18,
+      "element_name": "Freeform 30",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182750_custGeom_Freeform_30.svg"
+    },
+    {
+      "slide": 18,
+      "element_name": "Freeform 59",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182779_custGeom_Freeform_59.svg"
+    },
+    {
+      "slide": 18,
+      "element_name": "Freeform 60",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182780_custGeom_Freeform_60.svg"
+    },
+    {
+      "slide": 18,
+      "element_name": "Freeform 61",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182781_custGeom_Freeform_61.svg"
+    },
+    {
+      "slide": 18,
+      "element_name": "Freeform 62",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182782_custGeom_Freeform_62.svg"
+    },
+    {
+      "slide": 18,
+      "element_name": "Freeform 63",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182783_custGeom_Freeform_63.svg"
+    },
+    {
+      "slide": 18,
+      "element_name": "Freeform 64",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182784_custGeom_Freeform_64.svg"
+    },
+    {
+      "slide": 18,
+      "element_name": "Freeform 65",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182785_custGeom_Freeform_65.svg"
+    },
+    {
+      "slide": 18,
+      "element_name": "Freeform 17",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182737_custGeom_Freeform_17.svg"
+    },
+    {
+      "slide": 18,
+      "element_name": "Freeform 18",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182738_custGeom_Freeform_18.svg"
+    },
+    {
+      "slide": 18,
+      "element_name": "Freeform 19",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182739_custGeom_Freeform_19.svg"
+    },
+    {
+      "slide": 18,
+      "element_name": "Freeform 20",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182740_custGeom_Freeform_20.svg"
+    },
+    {
+      "slide": 18,
+      "element_name": "Freeform 21",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182741_custGeom_Freeform_21.svg"
+    },
+    {
+      "slide": 18,
+      "element_name": "Freeform 22",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182742_custGeom_Freeform_22.svg"
+    },
+    {
+      "slide": 18,
+      "element_name": "Freeform 23",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182743_custGeom_Freeform_23.svg"
+    },
+    {
+      "slide": 18,
+      "element_name": "Freeform 24",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182744_custGeom_Freeform_24.svg"
+    },
+    {
+      "slide": 18,
+      "element_name": "Freeform 25",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182745_custGeom_Freeform_25.svg"
+    },
+    {
+      "slide": 18,
+      "element_name": "Freeform 48",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182768_custGeom_Freeform_48.svg"
+    },
+    {
+      "slide": 18,
+      "element_name": "Freeform 49",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182769_custGeom_Freeform_49.svg"
+    },
+    {
+      "slide": 18,
+      "element_name": "Freeform 50",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182770_custGeom_Freeform_50.svg"
+    },
+    {
+      "slide": 18,
+      "element_name": "Freeform 51",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182771_custGeom_Freeform_51.svg"
+    },
+    {
+      "slide": 18,
+      "element_name": "Freeform 52",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182772_custGeom_Freeform_52.svg"
+    },
+    {
+      "slide": 18,
+      "element_name": "Freeform 53",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182773_custGeom_Freeform_53.svg"
+    },
+    {
+      "slide": 18,
+      "element_name": "Freeform 54",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182774_custGeom_Freeform_54.svg"
+    },
+    {
+      "slide": 18,
+      "element_name": "Freeform 55",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182775_custGeom_Freeform_55.svg"
+    },
+    {
+      "slide": 18,
+      "element_name": "Freeform 56",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182776_custGeom_Freeform_56.svg"
+    },
+    {
+      "slide": 18,
+      "element_name": "Freeform 57",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182777_custGeom_Freeform_57.svg"
+    },
+    {
+      "slide": 18,
+      "element_name": "Freeform 58",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182778_custGeom_Freeform_58.svg"
+    },
+    {
+      "slide": 18,
+      "element_name": "Freeform 66",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182786_custGeom_Freeform_66.svg"
+    },
+    {
+      "slide": 18,
+      "element_name": "Freeform 67",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182787_custGeom_Freeform_67.svg"
+    },
+    {
+      "slide": 18,
+      "element_name": "Freeform 68",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182788_custGeom_Freeform_68.svg"
+    },
+    {
+      "slide": 18,
+      "element_name": "Freeform 69",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182789_custGeom_Freeform_69.svg"
+    },
+    {
+      "slide": 18,
+      "element_name": "Freeform 70",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182790_custGeom_Freeform_70.svg"
+    },
+    {
+      "slide": 18,
+      "element_name": "Freeform 71",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182791_custGeom_Freeform_71.svg"
+    },
+    {
+      "slide": 18,
+      "element_name": "Freeform 72",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182792_custGeom_Freeform_72.svg"
+    },
+    {
+      "slide": 18,
+      "element_name": "Freeform 73",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182793_custGeom_Freeform_73.svg"
+    },
+    {
+      "slide": 18,
+      "element_name": "Freeform 74",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182794_custGeom_Freeform_74.svg"
+    },
+    {
+      "slide": 18,
+      "element_name": "Freeform 75",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182795_custGeom_Freeform_75.svg"
+    },
+    {
+      "slide": 18,
+      "element_name": "Freeform 76",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182796_custGeom_Freeform_76.svg"
+    },
+    {
+      "slide": 18,
+      "element_name": "Freeform 77",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182797_custGeom_Freeform_77.svg"
+    },
+    {
+      "slide": 18,
+      "element_name": "Freeform 2",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182722_custGeom_Freeform_2.svg"
+    },
+    {
+      "slide": 18,
+      "element_name": "Freeform 3",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182723_custGeom_Freeform_3.svg"
+    },
+    {
+      "slide": 18,
+      "element_name": "Freeform 4",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182724_custGeom_Freeform_4.svg"
+    },
+    {
+      "slide": 18,
+      "element_name": "Freeform 5",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182725_custGeom_Freeform_5.svg"
+    },
+    {
+      "slide": 18,
+      "element_name": "Freeform 6",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182726_custGeom_Freeform_6.svg"
+    },
+    {
+      "slide": 18,
+      "element_name": "Freeform 7",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182727_custGeom_Freeform_7.svg"
+    },
+    {
+      "slide": 18,
+      "element_name": "Freeform 8",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182728_custGeom_Freeform_8.svg"
+    },
+    {
+      "slide": 18,
+      "element_name": "Freeform 9",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182729_custGeom_Freeform_9.svg"
+    },
+    {
+      "slide": 18,
+      "element_name": "Freeform 10",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182730_custGeom_Freeform_10.svg"
+    },
+    {
+      "slide": 18,
+      "element_name": "Freeform 11",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182731_custGeom_Freeform_11.svg"
+    },
+    {
+      "slide": 18,
+      "element_name": "Freeform 12",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182732_custGeom_Freeform_12.svg"
+    },
+    {
+      "slide": 18,
+      "element_name": "Freeform 13",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182733_custGeom_Freeform_13.svg"
+    },
+    {
+      "slide": 18,
+      "element_name": "Freeform 14",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182734_custGeom_Freeform_14.svg"
+    },
+    {
+      "slide": 18,
+      "element_name": "Freeform 15",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182735_custGeom_Freeform_15.svg"
+    },
+    {
+      "slide": 18,
+      "element_name": "Freeform 16",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182736_custGeom_Freeform_16.svg"
+    },
+    {
+      "slide": 18,
+      "element_name": "Freeform 31",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182751_custGeom_Freeform_31.svg"
+    },
+    {
+      "slide": 18,
+      "element_name": "Freeform 32",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182752_custGeom_Freeform_32.svg"
+    },
+    {
+      "slide": 18,
+      "element_name": "Freeform 33",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182753_custGeom_Freeform_33.svg"
+    },
+    {
+      "slide": 18,
+      "element_name": "Freeform 34",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182754_custGeom_Freeform_34.svg"
+    },
+    {
+      "slide": 18,
+      "element_name": "Freeform 35",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182755_custGeom_Freeform_35.svg"
+    },
+    {
+      "slide": 18,
+      "element_name": "Freeform 36",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182756_custGeom_Freeform_36.svg"
+    },
+    {
+      "slide": 18,
+      "element_name": "Freeform 37",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182757_custGeom_Freeform_37.svg"
+    },
+    {
+      "slide": 18,
+      "element_name": "Freeform 38",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182758_custGeom_Freeform_38.svg"
+    },
+    {
+      "slide": 18,
+      "element_name": "Freeform 39",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182759_custGeom_Freeform_39.svg"
+    },
+    {
+      "slide": 18,
+      "element_name": "Freeform 40",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182760_custGeom_Freeform_40.svg"
+    },
+    {
+      "slide": 18,
+      "element_name": "Freeform 41",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182761_custGeom_Freeform_41.svg"
+    },
+    {
+      "slide": 18,
+      "element_name": "Freeform 42",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182762_custGeom_Freeform_42.svg"
+    },
+    {
+      "slide": 18,
+      "element_name": "Freeform 43",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182763_custGeom_Freeform_43.svg"
+    },
+    {
+      "slide": 18,
+      "element_name": "Freeform 44",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182764_custGeom_Freeform_44.svg"
+    },
+    {
+      "slide": 18,
+      "element_name": "Freeform 45",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182765_custGeom_Freeform_45.svg"
+    },
+    {
+      "slide": 18,
+      "element_name": "Freeform 46",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182766_custGeom_Freeform_46.svg"
+    },
+    {
+      "slide": 26,
+      "element_name": "Freeform 46",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide026_id64_custGeom_Freeform_46.svg"
+    },
+    {
+      "slide": 26,
+      "element_name": "Freeform 47",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide026_id65_custGeom_Freeform_47.svg"
+    },
+    {
+      "slide": 26,
+      "element_name": "Freeform 49",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide026_id1172529_custGeom_Freeform_49.svg"
+    },
+    {
+      "slide": 26,
+      "element_name": "Freeform 50",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide026_id1172530_custGeom_Freeform_50.svg"
+    },
+    {
+      "slide": 26,
+      "element_name": "Freeform 51",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide026_id1172531_custGeom_Freeform_51.svg"
+    },
+    {
+      "slide": 26,
+      "element_name": "Freeform 58",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide026_id1172538_custGeom_Freeform_58.svg"
+    },
+    {
+      "slide": 26,
+      "element_name": "Freeform 59",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide026_id1172539_custGeom_Freeform_59.svg"
+    },
+    {
+      "slide": 26,
+      "element_name": "Freeform 60",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide026_id1172540_custGeom_Freeform_60.svg"
+    },
+    {
+      "slide": 26,
+      "element_name": "Freeform 61",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide026_id1172541_custGeom_Freeform_61.svg"
+    },
+    {
+      "slide": 26,
+      "element_name": "Freeform 43",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide026_id1172523_custGeom_Freeform_43.svg"
+    },
+    {
+      "slide": 26,
+      "element_name": "Freeform 44",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide026_id1172524_custGeom_Freeform_44.svg"
+    },
+    {
+      "slide": 26,
+      "element_name": "Freeform 3",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide026_id1172483_custGeom_Freeform_3.svg"
+    },
+    {
+      "slide": 26,
+      "element_name": "Freeform 4",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide026_id1172484_custGeom_Freeform_4.svg"
+    },
+    {
+      "slide": 26,
+      "element_name": "Freeform 5",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide026_id1172485_custGeom_Freeform_5.svg"
+    },
+    {
+      "slide": 26,
+      "element_name": "Freeform 53",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide026_id1172533_custGeom_Freeform_53.svg"
+    },
+    {
+      "slide": 26,
+      "element_name": "Freeform 54",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide026_id1172534_custGeom_Freeform_54.svg"
+    },
+    {
+      "slide": 26,
+      "element_name": "Freeform 55",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide026_id1172535_custGeom_Freeform_55.svg"
+    },
+    {
+      "slide": 26,
+      "element_name": "Freeform 56",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide026_id1172536_custGeom_Freeform_56.svg"
+    },
+    {
+      "slide": 26,
+      "element_name": "Freeform 7",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide026_id1172487_custGeom_Freeform_7.svg"
+    },
+    {
+      "slide": 26,
+      "element_name": "Freeform 8",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide026_id1172488_custGeom_Freeform_8.svg"
+    },
+    {
+      "slide": 26,
+      "element_name": "Freeform 9",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide026_id1172489_custGeom_Freeform_9.svg"
+    },
+    {
+      "slide": 26,
+      "element_name": "Freeform 10",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide026_id1172490_custGeom_Freeform_10.svg"
+    },
+    {
+      "slide": 26,
+      "element_name": "Freeform 11",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide026_id1172491_custGeom_Freeform_11.svg"
+    },
+    {
+      "slide": 26,
+      "element_name": "Freeform 12",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide026_id1172492_custGeom_Freeform_12.svg"
+    },
+    {
+      "slide": 26,
+      "element_name": "Freeform 13",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide026_id1172493_custGeom_Freeform_13.svg"
+    },
+    {
+      "slide": 26,
+      "element_name": "Freeform 14",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide026_id1172494_custGeom_Freeform_14.svg"
+    },
+    {
+      "slide": 26,
+      "element_name": "Freeform 16",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide026_id67_custGeom_Freeform_16.svg"
+    },
+    {
+      "slide": 26,
+      "element_name": "Freeform 17",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide026_id69_custGeom_Freeform_17.svg"
+    },
+    {
+      "slide": 26,
+      "element_name": "Freeform 18",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide026_id70_custGeom_Freeform_18.svg"
+    },
+    {
+      "slide": 26,
+      "element_name": "Freeform 19",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide026_id71_custGeom_Freeform_19.svg"
+    },
+    {
+      "slide": 26,
+      "element_name": "Freeform 21",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide026_id1172501_custGeom_Freeform_21.svg"
+    },
+    {
+      "slide": 26,
+      "element_name": "Freeform 22",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide026_id1172502_custGeom_Freeform_22.svg"
+    },
+    {
+      "slide": 26,
+      "element_name": "Freeform 23",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide026_id1172503_custGeom_Freeform_23.svg"
+    },
+    {
+      "slide": 26,
+      "element_name": "Freeform 24",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide026_id1172504_custGeom_Freeform_24.svg"
+    },
+    {
+      "slide": 26,
+      "element_name": "Freeform 25",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide026_id1172505_custGeom_Freeform_25.svg"
+    },
+    {
+      "slide": 26,
+      "element_name": "Freeform 26",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide026_id1172506_custGeom_Freeform_26.svg"
+    },
+    {
+      "slide": 26,
+      "element_name": "Freeform 28",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide026_id1172508_custGeom_Freeform_28.svg"
+    },
+    {
+      "slide": 26,
+      "element_name": "Freeform 29",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide026_id1172509_custGeom_Freeform_29.svg"
+    },
+    {
+      "slide": 26,
+      "element_name": "Freeform 30",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide026_id1172510_custGeom_Freeform_30.svg"
+    },
+    {
+      "slide": 26,
+      "element_name": "Freeform 31",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide026_id1172511_custGeom_Freeform_31.svg"
+    },
+    {
+      "slide": 26,
+      "element_name": "Freeform 32",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide026_id1172512_custGeom_Freeform_32.svg"
+    },
+    {
+      "slide": 26,
+      "element_name": "Freeform 33",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide026_id1172513_custGeom_Freeform_33.svg"
+    },
+    {
+      "slide": 26,
+      "element_name": "Freeform 34",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide026_id1172514_custGeom_Freeform_34.svg"
+    },
+    {
+      "slide": 26,
+      "element_name": "Freeform 35",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide026_id1172515_custGeom_Freeform_35.svg"
+    },
+    {
+      "slide": 26,
+      "element_name": "Freeform 36",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide026_id1172516_custGeom_Freeform_36.svg"
+    },
+    {
+      "slide": 26,
+      "element_name": "Freeform 37",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide026_id1172517_custGeom_Freeform_37.svg"
+    },
+    {
+      "slide": 26,
+      "element_name": "Freeform 38",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide026_id1172518_custGeom_Freeform_38.svg"
+    },
+    {
+      "slide": 26,
+      "element_name": "Freeform 39",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide026_id1172519_custGeom_Freeform_39.svg"
+    },
+    {
+      "slide": 26,
+      "element_name": "Freeform 40",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide026_id1172520_custGeom_Freeform_40.svg"
+    },
+    {
+      "slide": 26,
+      "element_name": "Freeform 41",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide026_id1172521_custGeom_Freeform_41.svg"
+    },
+    {
+      "slide": 27,
+      "element_name": "Freeform 46",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide027_id5_custGeom_Freeform_46.svg"
+    },
+    {
+      "slide": 28,
+      "element_name": "Freeform 50",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide028_id6_custGeom_Freeform_50.svg"
+    },
+    {
+      "slide": 29,
+      "element_name": "Freeform 58",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide029_id5_custGeom_Freeform_58.svg"
+    },
+    {
+      "slide": 29,
+      "element_name": "Freeform 60",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide029_id7_custGeom_Freeform_60.svg"
+    },
+    {
+      "slide": 30,
+      "element_name": "Freeform 43",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide030_id5_custGeom_Freeform_43.svg"
+    },
+    {
+      "slide": 30,
+      "element_name": "Freeform 44",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide030_id6_custGeom_Freeform_44.svg"
+    },
+    {
+      "slide": 31,
+      "element_name": "Freeform 3",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide031_id5_custGeom_Freeform_3.svg"
+    },
+    {
+      "slide": 31,
+      "element_name": "Freeform 4",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide031_id6_custGeom_Freeform_4.svg"
+    },
+    {
+      "slide": 32,
+      "element_name": "Freeform 53",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide032_id5_custGeom_Freeform_53.svg"
+    },
+    {
+      "slide": 32,
+      "element_name": "Freeform 55",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide032_id7_custGeom_Freeform_55.svg"
+    },
+    {
+      "slide": 33,
+      "element_name": "Freeform 7",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide033_id5_custGeom_Freeform_7.svg"
+    },
+    {
+      "slide": 33,
+      "element_name": "Freeform 8",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide033_id6_custGeom_Freeform_8.svg"
+    },
+    {
+      "slide": 33,
+      "element_name": "Freeform 9",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide033_id7_custGeom_Freeform_9.svg"
+    },
+    {
+      "slide": 33,
+      "element_name": "Freeform 10",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide033_id8_custGeom_Freeform_10.svg"
+    },
+    {
+      "slide": 33,
+      "element_name": "Freeform 11",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide033_id9_custGeom_Freeform_11.svg"
+    },
+    {
+      "slide": 33,
+      "element_name": "Freeform 12",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide033_id10_custGeom_Freeform_12.svg"
+    },
+    {
+      "slide": 33,
+      "element_name": "Freeform 13",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide033_id11_custGeom_Freeform_13.svg"
+    },
+    {
+      "slide": 33,
+      "element_name": "Freeform 14",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide033_id12_custGeom_Freeform_14.svg"
+    },
+    {
+      "slide": 34,
+      "element_name": "Freeform 17",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide034_id7_custGeom_Freeform_17.svg"
+    },
+    {
+      "slide": 34,
+      "element_name": "Freeform 18",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide034_id8_custGeom_Freeform_18.svg"
+    },
+    {
+      "slide": 35,
+      "element_name": "Freeform 21",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide035_id5_custGeom_Freeform_21.svg"
+    },
+    {
+      "slide": 35,
+      "element_name": "Freeform 22",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide035_id6_custGeom_Freeform_22.svg"
+    },
+    {
+      "slide": 35,
+      "element_name": "Freeform 23",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide035_id7_custGeom_Freeform_23.svg"
+    },
+    {
+      "slide": 35,
+      "element_name": "Freeform 24",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide035_id8_custGeom_Freeform_24.svg"
+    },
+    {
+      "slide": 35,
+      "element_name": "Freeform 25",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide035_id9_custGeom_Freeform_25.svg"
+    },
+    {
+      "slide": 35,
+      "element_name": "Freeform 26",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide035_id10_custGeom_Freeform_26.svg"
+    },
+    {
+      "slide": 36,
+      "element_name": "Freeform 28",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide036_id5_custGeom_Freeform_28.svg"
+    },
+    {
+      "slide": 36,
+      "element_name": "Freeform 29",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide036_id6_custGeom_Freeform_29.svg"
+    },
+    {
+      "slide": 36,
+      "element_name": "Freeform 30",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide036_id7_custGeom_Freeform_30.svg"
+    },
+    {
+      "slide": 36,
+      "element_name": "Freeform 31",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide036_id8_custGeom_Freeform_31.svg"
+    },
+    {
+      "slide": 36,
+      "element_name": "Freeform 32",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide036_id9_custGeom_Freeform_32.svg"
+    },
+    {
+      "slide": 36,
+      "element_name": "Freeform 33",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide036_id10_custGeom_Freeform_33.svg"
+    },
+    {
+      "slide": 36,
+      "element_name": "Freeform 34",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide036_id11_custGeom_Freeform_34.svg"
+    },
+    {
+      "slide": 36,
+      "element_name": "Freeform 35",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide036_id12_custGeom_Freeform_35.svg"
+    },
+    {
+      "slide": 36,
+      "element_name": "Freeform 36",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide036_id13_custGeom_Freeform_36.svg"
+    },
+    {
+      "slide": 36,
+      "element_name": "Freeform 37",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide036_id14_custGeom_Freeform_37.svg"
+    },
+    {
+      "slide": 36,
+      "element_name": "Freeform 38",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide036_id15_custGeom_Freeform_38.svg"
+    },
+    {
+      "slide": 36,
+      "element_name": "Freeform 39",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide036_id16_custGeom_Freeform_39.svg"
+    },
+    {
+      "slide": 36,
+      "element_name": "Freeform 40",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide036_id17_custGeom_Freeform_40.svg"
+    },
+    {
+      "slide": 36,
+      "element_name": "Freeform 41",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide036_id18_custGeom_Freeform_41.svg"
+    },
+    {
+      "slide": 37,
+      "element_name": "Line 8",
+      "kind": "line",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide037_id1173512_line_Line_8.svg"
+    },
+    {
+      "slide": 37,
+      "element_name": "Line 12",
+      "kind": "line",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide037_id1173516_line_Line_12.svg"
+    },
+    {
+      "slide": 37,
+      "element_name": "Oval 17",
+      "kind": "ellipse",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide037_id1173521_ellipse_Oval_17.svg"
+    },
+    {
+      "slide": 37,
+      "element_name": "Oval 18",
+      "kind": "ellipse",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide037_id1173522_ellipse_Oval_18.svg"
+    },
+    {
+      "slide": 38,
+      "element_name": "OuterArrow",
+      "kind": "flowChartExtract",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide038_id23_flowChartExtract_OuterArrow.svg"
+    },
+    {
+      "slide": 38,
+      "element_name": "InnerArrow",
+      "kind": "flowChartExtract",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide038_id24_flowChartExtract_InnerArrow.svg"
+    },
+    {
+      "slide": 38,
+      "element_name": "InnerArrow",
+      "kind": "flowChartExtract",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide038_id28_flowChartExtract_InnerArrow.svg"
+    },
+    {
+      "slide": 39,
+      "element_name": "Freeform 6",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide039_id6_custGeom_Freeform_6.svg"
+    },
+    {
+      "slide": 39,
+      "element_name": "Freeform 6",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide039_id7_custGeom_Freeform_6.svg"
+    },
+    {
+      "slide": 39,
+      "element_name": "Freeform 6",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide039_id8_custGeom_Freeform_6.svg"
+    },
+    {
+      "slide": 40,
+      "element_name": "Freeform 6",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide040_id10_custGeom_Freeform_6.svg"
+    },
+    {
+      "slide": 40,
+      "element_name": "Freeform 6",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide040_id11_custGeom_Freeform_6.svg"
+    },
+    {
+      "slide": 40,
+      "element_name": "Freeform 6",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide040_id12_custGeom_Freeform_6.svg"
+    },
+    {
+      "slide": 40,
+      "element_name": "Freeform 6",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide040_id13_custGeom_Freeform_6.svg"
+    },
+    {
+      "slide": 41,
+      "element_name": "Freeform 6",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide041_id10_custGeom_Freeform_6.svg"
+    },
+    {
+      "slide": 41,
+      "element_name": "Freeform 6",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide041_id11_custGeom_Freeform_6.svg"
+    },
+    {
+      "slide": 41,
+      "element_name": "Freeform 6",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide041_id13_custGeom_Freeform_6.svg"
+    },
+    {
+      "slide": 41,
+      "element_name": "Freeform 6",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide041_id7_custGeom_Freeform_6.svg"
+    },
+    {
+      "slide": 41,
+      "element_name": "Freeform 6",
+      "kind": "custGeom",
+      "output_file": "exported-shape-assets-svg-v2/03_ProcessesDark/slide041_id8_custGeom_Freeform_6.svg"
+    }
+  ],
+  "duplicates": [
+    {
+      "slide": 10,
+      "element_name": "Freeform 6",
+      "kind": "custGeom",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide010_id1180675_custGeom_Freeform_3.svg"
+    },
+    {
+      "slide": 11,
+      "element_name": "Freeform 3",
+      "kind": "custGeom",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide010_id1180675_custGeom_Freeform_3.svg"
+    },
+    {
+      "slide": 11,
+      "element_name": "Freeform 4",
+      "kind": "custGeom",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide010_id1180676_custGeom_Freeform_4.svg"
+    },
+    {
+      "slide": 11,
+      "element_name": "Freeform 5",
+      "kind": "custGeom",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide010_id1180677_custGeom_Freeform_5.svg"
+    },
+    {
+      "slide": 12,
+      "element_name": "Freeform 50",
+      "kind": "custGeom",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide010_id1180722_custGeom_Freeform_50.svg"
+    },
+    {
+      "slide": 12,
+      "element_name": "Freeform 52",
+      "kind": "custGeom",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide010_id1180724_custGeom_Freeform_52.svg"
+    },
+    {
+      "slide": 12,
+      "element_name": "Freeform 53",
+      "kind": "custGeom",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide010_id1180725_custGeom_Freeform_53.svg"
+    },
+    {
+      "slide": 12,
+      "element_name": "Freeform 60",
+      "kind": "custGeom",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide010_id1180732_custGeom_Freeform_60.svg"
+    },
+    {
+      "slide": 13,
+      "element_name": "Freeform 28",
+      "kind": "custGeom",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide010_id1180700_custGeom_Freeform_28.svg"
+    },
+    {
+      "slide": 13,
+      "element_name": "Freeform 29",
+      "kind": "custGeom",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide010_id1180701_custGeom_Freeform_29.svg"
+    },
+    {
+      "slide": 13,
+      "element_name": "Freeform 30",
+      "kind": "custGeom",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide010_id1180702_custGeom_Freeform_30.svg"
+    },
+    {
+      "slide": 13,
+      "element_name": "Freeform 31",
+      "kind": "custGeom",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide010_id1180703_custGeom_Freeform_31.svg"
+    },
+    {
+      "slide": 13,
+      "element_name": "Freeform 32",
+      "kind": "custGeom",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide010_id1180704_custGeom_Freeform_32.svg"
+    },
+    {
+      "slide": 14,
+      "element_name": "Freeform 6",
+      "kind": "custGeom",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide010_id1180675_custGeom_Freeform_3.svg"
+    },
+    {
+      "slide": 14,
+      "element_name": "Freeform 7",
+      "kind": "custGeom",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide010_id1180679_custGeom_Freeform_7.svg"
+    },
+    {
+      "slide": 14,
+      "element_name": "Freeform 8",
+      "kind": "custGeom",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide010_id1180680_custGeom_Freeform_8.svg"
+    },
+    {
+      "slide": 14,
+      "element_name": "Freeform 9",
+      "kind": "custGeom",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide010_id1180681_custGeom_Freeform_9.svg"
+    },
+    {
+      "slide": 14,
+      "element_name": "Freeform 10",
+      "kind": "custGeom",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide010_id1180682_custGeom_Freeform_10.svg"
+    },
+    {
+      "slide": 14,
+      "element_name": "Freeform 11",
+      "kind": "custGeom",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide010_id1180683_custGeom_Freeform_11.svg"
+    },
+    {
+      "slide": 15,
+      "element_name": "Freeform 33",
+      "kind": "custGeom",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide010_id1180705_custGeom_Freeform_33.svg"
+    },
+    {
+      "slide": 15,
+      "element_name": "Freeform 34",
+      "kind": "custGeom",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide010_id1180706_custGeom_Freeform_34.svg"
+    },
+    {
+      "slide": 15,
+      "element_name": "Freeform 35",
+      "kind": "custGeom",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide010_id1180707_custGeom_Freeform_35.svg"
+    },
+    {
+      "slide": 15,
+      "element_name": "Freeform 36",
+      "kind": "custGeom",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide010_id1180708_custGeom_Freeform_36.svg"
+    },
+    {
+      "slide": 15,
+      "element_name": "Freeform 37",
+      "kind": "custGeom",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide010_id1180709_custGeom_Freeform_37.svg"
+    },
+    {
+      "slide": 15,
+      "element_name": "Freeform 38",
+      "kind": "custGeom",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide010_id1180710_custGeom_Freeform_38.svg"
+    },
+    {
+      "slide": 15,
+      "element_name": "Freeform 39",
+      "kind": "custGeom",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide010_id1180711_custGeom_Freeform_39.svg"
+    },
+    {
+      "slide": 16,
+      "element_name": "Freeform 12",
+      "kind": "custGeom",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide010_id1180684_custGeom_Freeform_12.svg"
+    },
+    {
+      "slide": 16,
+      "element_name": "Freeform 21",
+      "kind": "custGeom",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide010_id53_custGeom_Freeform_21.svg"
+    },
+    {
+      "slide": 16,
+      "element_name": "Freeform 22",
+      "kind": "custGeom",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide010_id54_custGeom_Freeform_22.svg"
+    },
+    {
+      "slide": 16,
+      "element_name": "Freeform 23",
+      "kind": "custGeom",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide010_id55_custGeom_Freeform_23.svg"
+    },
+    {
+      "slide": 16,
+      "element_name": "Freeform 24",
+      "kind": "custGeom",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide010_id56_custGeom_Freeform_24.svg"
+    },
+    {
+      "slide": 16,
+      "element_name": "Freeform 25",
+      "kind": "custGeom",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide010_id57_custGeom_Freeform_25.svg"
+    },
+    {
+      "slide": 16,
+      "element_name": "Freeform 26",
+      "kind": "custGeom",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide010_id58_custGeom_Freeform_26.svg"
+    },
+    {
+      "slide": 16,
+      "element_name": "Freeform 27",
+      "kind": "custGeom",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide010_id59_custGeom_Freeform_27.svg"
+    },
+    {
+      "slide": 17,
+      "element_name": "Freeform 40",
+      "kind": "custGeom",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide010_id1180712_custGeom_Freeform_40.svg"
+    },
+    {
+      "slide": 17,
+      "element_name": "Freeform 41",
+      "kind": "custGeom",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide010_id1180713_custGeom_Freeform_41.svg"
+    },
+    {
+      "slide": 17,
+      "element_name": "Freeform 42",
+      "kind": "custGeom",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide010_id1180714_custGeom_Freeform_42.svg"
+    },
+    {
+      "slide": 17,
+      "element_name": "Freeform 43",
+      "kind": "custGeom",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide010_id1180715_custGeom_Freeform_43.svg"
+    },
+    {
+      "slide": 17,
+      "element_name": "Freeform 44",
+      "kind": "custGeom",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide010_id1180716_custGeom_Freeform_44.svg"
+    },
+    {
+      "slide": 17,
+      "element_name": "Freeform 45",
+      "kind": "custGeom",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide010_id1180717_custGeom_Freeform_45.svg"
+    },
+    {
+      "slide": 17,
+      "element_name": "Freeform 46",
+      "kind": "custGeom",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide010_id1180718_custGeom_Freeform_46.svg"
+    },
+    {
+      "slide": 17,
+      "element_name": "Freeform 47",
+      "kind": "custGeom",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide010_id1180719_custGeom_Freeform_47.svg"
+    },
+    {
+      "slide": 17,
+      "element_name": "Freeform 48",
+      "kind": "custGeom",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide010_id1180720_custGeom_Freeform_48.svg"
+    },
+    {
+      "slide": 18,
+      "element_name": "Oval 159",
+      "kind": "ellipse",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182746_ellipse_Oval_26.svg"
+    },
+    {
+      "slide": 18,
+      "element_name": "Oval 47",
+      "kind": "ellipse",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182746_ellipse_Oval_26.svg"
+    },
+    {
+      "slide": 19,
+      "element_name": "Oval 26",
+      "kind": "ellipse",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182746_ellipse_Oval_26.svg"
+    },
+    {
+      "slide": 19,
+      "element_name": "Freeform 27",
+      "kind": "custGeom",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182747_custGeom_Freeform_27.svg"
+    },
+    {
+      "slide": 19,
+      "element_name": "Freeform 28",
+      "kind": "custGeom",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182748_custGeom_Freeform_28.svg"
+    },
+    {
+      "slide": 19,
+      "element_name": "Freeform 29",
+      "kind": "custGeom",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182749_custGeom_Freeform_29.svg"
+    },
+    {
+      "slide": 19,
+      "element_name": "Freeform 30",
+      "kind": "custGeom",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182750_custGeom_Freeform_30.svg"
+    },
+    {
+      "slide": 20,
+      "element_name": "Freeform 59",
+      "kind": "custGeom",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182779_custGeom_Freeform_59.svg"
+    },
+    {
+      "slide": 20,
+      "element_name": "Freeform 60",
+      "kind": "custGeom",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182780_custGeom_Freeform_60.svg"
+    },
+    {
+      "slide": 20,
+      "element_name": "Freeform 61",
+      "kind": "custGeom",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182781_custGeom_Freeform_61.svg"
+    },
+    {
+      "slide": 20,
+      "element_name": "Freeform 62",
+      "kind": "custGeom",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182782_custGeom_Freeform_62.svg"
+    },
+    {
+      "slide": 20,
+      "element_name": "Freeform 63",
+      "kind": "custGeom",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182783_custGeom_Freeform_63.svg"
+    },
+    {
+      "slide": 20,
+      "element_name": "Freeform 64",
+      "kind": "custGeom",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182784_custGeom_Freeform_64.svg"
+    },
+    {
+      "slide": 20,
+      "element_name": "Freeform 65",
+      "kind": "custGeom",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182785_custGeom_Freeform_65.svg"
+    },
+    {
+      "slide": 21,
+      "element_name": "Freeform 17",
+      "kind": "custGeom",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182737_custGeom_Freeform_17.svg"
+    },
+    {
+      "slide": 21,
+      "element_name": "Freeform 18",
+      "kind": "custGeom",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182738_custGeom_Freeform_18.svg"
+    },
+    {
+      "slide": 21,
+      "element_name": "Freeform 19",
+      "kind": "custGeom",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182739_custGeom_Freeform_19.svg"
+    },
+    {
+      "slide": 21,
+      "element_name": "Freeform 20",
+      "kind": "custGeom",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182740_custGeom_Freeform_20.svg"
+    },
+    {
+      "slide": 21,
+      "element_name": "Freeform 21",
+      "kind": "custGeom",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182741_custGeom_Freeform_21.svg"
+    },
+    {
+      "slide": 21,
+      "element_name": "Freeform 22",
+      "kind": "custGeom",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182742_custGeom_Freeform_22.svg"
+    },
+    {
+      "slide": 21,
+      "element_name": "Freeform 23",
+      "kind": "custGeom",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182743_custGeom_Freeform_23.svg"
+    },
+    {
+      "slide": 21,
+      "element_name": "Freeform 24",
+      "kind": "custGeom",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182744_custGeom_Freeform_24.svg"
+    },
+    {
+      "slide": 21,
+      "element_name": "Freeform 25",
+      "kind": "custGeom",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182745_custGeom_Freeform_25.svg"
+    },
+    {
+      "slide": 22,
+      "element_name": "Freeform 48",
+      "kind": "custGeom",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182768_custGeom_Freeform_48.svg"
+    },
+    {
+      "slide": 22,
+      "element_name": "Freeform 49",
+      "kind": "custGeom",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182769_custGeom_Freeform_49.svg"
+    },
+    {
+      "slide": 22,
+      "element_name": "Freeform 50",
+      "kind": "custGeom",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182770_custGeom_Freeform_50.svg"
+    },
+    {
+      "slide": 22,
+      "element_name": "Freeform 51",
+      "kind": "custGeom",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182771_custGeom_Freeform_51.svg"
+    },
+    {
+      "slide": 22,
+      "element_name": "Freeform 52",
+      "kind": "custGeom",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182772_custGeom_Freeform_52.svg"
+    },
+    {
+      "slide": 22,
+      "element_name": "Freeform 53",
+      "kind": "custGeom",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182773_custGeom_Freeform_53.svg"
+    },
+    {
+      "slide": 22,
+      "element_name": "Freeform 54",
+      "kind": "custGeom",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182774_custGeom_Freeform_54.svg"
+    },
+    {
+      "slide": 22,
+      "element_name": "Freeform 55",
+      "kind": "custGeom",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182775_custGeom_Freeform_55.svg"
+    },
+    {
+      "slide": 22,
+      "element_name": "Freeform 56",
+      "kind": "custGeom",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182776_custGeom_Freeform_56.svg"
+    },
+    {
+      "slide": 22,
+      "element_name": "Freeform 57",
+      "kind": "custGeom",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182777_custGeom_Freeform_57.svg"
+    },
+    {
+      "slide": 22,
+      "element_name": "Freeform 58",
+      "kind": "custGeom",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182778_custGeom_Freeform_58.svg"
+    },
+    {
+      "slide": 23,
+      "element_name": "Freeform 66",
+      "kind": "custGeom",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182786_custGeom_Freeform_66.svg"
+    },
+    {
+      "slide": 23,
+      "element_name": "Freeform 67",
+      "kind": "custGeom",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182787_custGeom_Freeform_67.svg"
+    },
+    {
+      "slide": 23,
+      "element_name": "Freeform 68",
+      "kind": "custGeom",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182788_custGeom_Freeform_68.svg"
+    },
+    {
+      "slide": 23,
+      "element_name": "Freeform 69",
+      "kind": "custGeom",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182789_custGeom_Freeform_69.svg"
+    },
+    {
+      "slide": 23,
+      "element_name": "Freeform 70",
+      "kind": "custGeom",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182790_custGeom_Freeform_70.svg"
+    },
+    {
+      "slide": 23,
+      "element_name": "Freeform 71",
+      "kind": "custGeom",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182791_custGeom_Freeform_71.svg"
+    },
+    {
+      "slide": 23,
+      "element_name": "Freeform 72",
+      "kind": "custGeom",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182792_custGeom_Freeform_72.svg"
+    },
+    {
+      "slide": 23,
+      "element_name": "Freeform 73",
+      "kind": "custGeom",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182793_custGeom_Freeform_73.svg"
+    },
+    {
+      "slide": 23,
+      "element_name": "Freeform 74",
+      "kind": "custGeom",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182794_custGeom_Freeform_74.svg"
+    },
+    {
+      "slide": 23,
+      "element_name": "Freeform 75",
+      "kind": "custGeom",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182795_custGeom_Freeform_75.svg"
+    },
+    {
+      "slide": 23,
+      "element_name": "Freeform 76",
+      "kind": "custGeom",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182796_custGeom_Freeform_76.svg"
+    },
+    {
+      "slide": 23,
+      "element_name": "Freeform 77",
+      "kind": "custGeom",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182797_custGeom_Freeform_77.svg"
+    },
+    {
+      "slide": 23,
+      "element_name": "Oval 159",
+      "kind": "ellipse",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182746_ellipse_Oval_26.svg"
+    },
+    {
+      "slide": 24,
+      "element_name": "Freeform 2",
+      "kind": "custGeom",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182722_custGeom_Freeform_2.svg"
+    },
+    {
+      "slide": 24,
+      "element_name": "Freeform 3",
+      "kind": "custGeom",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182723_custGeom_Freeform_3.svg"
+    },
+    {
+      "slide": 24,
+      "element_name": "Freeform 4",
+      "kind": "custGeom",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182724_custGeom_Freeform_4.svg"
+    },
+    {
+      "slide": 24,
+      "element_name": "Freeform 5",
+      "kind": "custGeom",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182725_custGeom_Freeform_5.svg"
+    },
+    {
+      "slide": 24,
+      "element_name": "Freeform 6",
+      "kind": "custGeom",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182726_custGeom_Freeform_6.svg"
+    },
+    {
+      "slide": 24,
+      "element_name": "Freeform 7",
+      "kind": "custGeom",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182727_custGeom_Freeform_7.svg"
+    },
+    {
+      "slide": 24,
+      "element_name": "Freeform 8",
+      "kind": "custGeom",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182728_custGeom_Freeform_8.svg"
+    },
+    {
+      "slide": 24,
+      "element_name": "Freeform 9",
+      "kind": "custGeom",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182729_custGeom_Freeform_9.svg"
+    },
+    {
+      "slide": 24,
+      "element_name": "Freeform 10",
+      "kind": "custGeom",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182730_custGeom_Freeform_10.svg"
+    },
+    {
+      "slide": 24,
+      "element_name": "Freeform 11",
+      "kind": "custGeom",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182731_custGeom_Freeform_11.svg"
+    },
+    {
+      "slide": 24,
+      "element_name": "Freeform 12",
+      "kind": "custGeom",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182732_custGeom_Freeform_12.svg"
+    },
+    {
+      "slide": 24,
+      "element_name": "Freeform 13",
+      "kind": "custGeom",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182733_custGeom_Freeform_13.svg"
+    },
+    {
+      "slide": 24,
+      "element_name": "Freeform 14",
+      "kind": "custGeom",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182734_custGeom_Freeform_14.svg"
+    },
+    {
+      "slide": 24,
+      "element_name": "Freeform 15",
+      "kind": "custGeom",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182735_custGeom_Freeform_15.svg"
+    },
+    {
+      "slide": 24,
+      "element_name": "Freeform 16",
+      "kind": "custGeom",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182736_custGeom_Freeform_16.svg"
+    },
+    {
+      "slide": 25,
+      "element_name": "Freeform 31",
+      "kind": "custGeom",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182751_custGeom_Freeform_31.svg"
+    },
+    {
+      "slide": 25,
+      "element_name": "Freeform 32",
+      "kind": "custGeom",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182752_custGeom_Freeform_32.svg"
+    },
+    {
+      "slide": 25,
+      "element_name": "Freeform 33",
+      "kind": "custGeom",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182753_custGeom_Freeform_33.svg"
+    },
+    {
+      "slide": 25,
+      "element_name": "Freeform 34",
+      "kind": "custGeom",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182754_custGeom_Freeform_34.svg"
+    },
+    {
+      "slide": 25,
+      "element_name": "Freeform 35",
+      "kind": "custGeom",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182755_custGeom_Freeform_35.svg"
+    },
+    {
+      "slide": 25,
+      "element_name": "Freeform 36",
+      "kind": "custGeom",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182756_custGeom_Freeform_36.svg"
+    },
+    {
+      "slide": 25,
+      "element_name": "Freeform 37",
+      "kind": "custGeom",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182757_custGeom_Freeform_37.svg"
+    },
+    {
+      "slide": 25,
+      "element_name": "Freeform 38",
+      "kind": "custGeom",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182758_custGeom_Freeform_38.svg"
+    },
+    {
+      "slide": 25,
+      "element_name": "Freeform 39",
+      "kind": "custGeom",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182759_custGeom_Freeform_39.svg"
+    },
+    {
+      "slide": 25,
+      "element_name": "Freeform 40",
+      "kind": "custGeom",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182760_custGeom_Freeform_40.svg"
+    },
+    {
+      "slide": 25,
+      "element_name": "Freeform 41",
+      "kind": "custGeom",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182761_custGeom_Freeform_41.svg"
+    },
+    {
+      "slide": 25,
+      "element_name": "Freeform 42",
+      "kind": "custGeom",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182762_custGeom_Freeform_42.svg"
+    },
+    {
+      "slide": 25,
+      "element_name": "Freeform 43",
+      "kind": "custGeom",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182763_custGeom_Freeform_43.svg"
+    },
+    {
+      "slide": 25,
+      "element_name": "Freeform 44",
+      "kind": "custGeom",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182764_custGeom_Freeform_44.svg"
+    },
+    {
+      "slide": 25,
+      "element_name": "Freeform 45",
+      "kind": "custGeom",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182765_custGeom_Freeform_45.svg"
+    },
+    {
+      "slide": 25,
+      "element_name": "Freeform 46",
+      "kind": "custGeom",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182766_custGeom_Freeform_46.svg"
+    },
+    {
+      "slide": 25,
+      "element_name": "Oval 47",
+      "kind": "ellipse",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide018_id1182746_ellipse_Oval_26.svg"
+    },
+    {
+      "slide": 27,
+      "element_name": "Freeform 47",
+      "kind": "custGeom",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide026_id65_custGeom_Freeform_47.svg"
+    },
+    {
+      "slide": 28,
+      "element_name": "Freeform 49",
+      "kind": "custGeom",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide026_id1172529_custGeom_Freeform_49.svg"
+    },
+    {
+      "slide": 28,
+      "element_name": "Freeform 51",
+      "kind": "custGeom",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide026_id1172531_custGeom_Freeform_51.svg"
+    },
+    {
+      "slide": 29,
+      "element_name": "Freeform 59",
+      "kind": "custGeom",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide026_id1172539_custGeom_Freeform_59.svg"
+    },
+    {
+      "slide": 29,
+      "element_name": "Freeform 61",
+      "kind": "custGeom",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide026_id1172541_custGeom_Freeform_61.svg"
+    },
+    {
+      "slide": 31,
+      "element_name": "Freeform 5",
+      "kind": "custGeom",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide026_id1172485_custGeom_Freeform_5.svg"
+    },
+    {
+      "slide": 32,
+      "element_name": "Freeform 54",
+      "kind": "custGeom",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide026_id1172534_custGeom_Freeform_54.svg"
+    },
+    {
+      "slide": 32,
+      "element_name": "Freeform 56",
+      "kind": "custGeom",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide026_id1172536_custGeom_Freeform_56.svg"
+    },
+    {
+      "slide": 34,
+      "element_name": "Freeform 16",
+      "kind": "custGeom",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide026_id67_custGeom_Freeform_16.svg"
+    },
+    {
+      "slide": 34,
+      "element_name": "Freeform 19",
+      "kind": "custGeom",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide026_id71_custGeom_Freeform_19.svg"
+    },
+    {
+      "slide": 37,
+      "element_name": "Line 9",
+      "kind": "line",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide037_id1173512_line_Line_8.svg"
+    },
+    {
+      "slide": 37,
+      "element_name": "Line 10",
+      "kind": "line",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide037_id1173512_line_Line_8.svg"
+    },
+    {
+      "slide": 37,
+      "element_name": "Line 11",
+      "kind": "line",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide037_id1173512_line_Line_8.svg"
+    },
+    {
+      "slide": 37,
+      "element_name": "Line 13",
+      "kind": "line",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide037_id1173516_line_Line_12.svg"
+    },
+    {
+      "slide": 37,
+      "element_name": "Line 14",
+      "kind": "line",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide037_id1173516_line_Line_12.svg"
+    },
+    {
+      "slide": 37,
+      "element_name": "Line 15",
+      "kind": "line",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide037_id1173516_line_Line_12.svg"
+    },
+    {
+      "slide": 37,
+      "element_name": "Line 16",
+      "kind": "line",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide037_id1173516_line_Line_12.svg"
+    },
+    {
+      "slide": 38,
+      "element_name": "OuterArrow",
+      "kind": "flowChartExtract",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide038_id23_flowChartExtract_OuterArrow.svg"
+    },
+    {
+      "slide": 38,
+      "element_name": "OuterArrow",
+      "kind": "flowChartExtract",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide038_id23_flowChartExtract_OuterArrow.svg"
+    },
+    {
+      "slide": 38,
+      "element_name": "InnerArrow",
+      "kind": "flowChartExtract",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide038_id24_flowChartExtract_InnerArrow.svg"
+    },
+    {
+      "slide": 38,
+      "element_name": "OuterArrow",
+      "kind": "flowChartExtract",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide038_id23_flowChartExtract_OuterArrow.svg"
+    },
+    {
+      "slide": 38,
+      "element_name": "InnerArrow",
+      "kind": "flowChartExtract",
+      "duplicate_of": "exported-shape-assets-svg-v2/03_ProcessesDark/slide038_id24_flowChartExtract_InnerArrow.svg"
+    }
+  ]
+}

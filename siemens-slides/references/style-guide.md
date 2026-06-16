@@ -105,6 +105,8 @@
 - Highlight box：Petrol 或 Advanta Green 文本/块，数量少，必须直角
 - 阴影：默认无明显阴影；仅允许极轻微、接近官方模板默认组件阴影的效果
 - Box / card / panel / table block：全部使用直角矩形，不使用 rounded corners，不使用 pill 形状
+- 内容 text 区域、说明框、注释框默认不用虚线边框；优先无边框，或使用极细实线边框
+- 底部重点内容区、takeaway strip、总结条默认使用单一主色背景，优先 Deep Blue 或 Siemens Petrol，不使用多色并排底块
 - 同类组件必须共用列宽、边界线和间距节奏，不要出现单独漂浮的模块
 
 ## 标题与正文关系
@@ -117,6 +119,7 @@
 ## 参考图使用规则
 
 - `assets/reference-slides/...` 是给 agent 观察和提炼特征用的
+- `assets/reference-components/shape-assets/...` 是给 agent 提炼局部组件语义用的正式参考资产
 - 不要把文件路径原样当成模型“可见参考图”
 - 正确做法是先观察，然后把版式几何、大框架布局、色彩比例、留白密度、主次重心写成 prompt
 
@@ -126,6 +129,8 @@
 - 不要居中海报式构图、startup landing page、霓虹 HUD、3D 图表、玻璃拟态
 - 不要圆角卡片、圆角信息块、pill-shaped boxes
 - 不要边框、相框、下划线式标题装饰
+- 不要把内容说明区默认画成虚线框；虚线只可在少量流程辅助标注中克制使用
+- 不要把底部重点内容区做成多色拼接卡片带；优先单一主色整条表达
 - 不要出现因为元素未对齐而形成的大面积无意义空白
 - 不要让几个主要模块各自使用不同的对齐起点
 - 不要节庆、Pride、Belonging、Disability、Ramadan、Diwali、Chinese New Year 等专题元素混入通用企业汇报页

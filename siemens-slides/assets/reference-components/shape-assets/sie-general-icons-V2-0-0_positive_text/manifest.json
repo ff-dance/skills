@@ -1,0 +1,17 @@
+{
+  "pptx": "assets/raw/sie-general-icons-V2-0-0_positive_text.pptx",
+  "output_dir": "assets/raw/exported-shape-assets-svg-v2/sie-general-icons-V2-0-0_positive_text",
+  "stats": {
+    "slides": 171,
+    "shape_candidates": 1,
+    "connector_candidates": 0,
+    "exported_assets": 0,
+    "skipped_text_shapes": 1,
+    "skipped_excluded_geom": 0,
+    "skipped_empty_render": 0,
+    "skipped_zero_size": 0,
+    "skipped_duplicates": 0
+  },
+  "exports": [],
+  "duplicates": []
+}
