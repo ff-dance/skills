@@ -28,7 +28,7 @@ def parse_args() -> argparse.Namespace:
         description="Export reusable PPT shape assets to SVG."
     )
     parser.add_argument("--input-dir", default="assets/raw")
-    parser.add_argument("--output-dir", default="assets/reference-components/shape-assets")
+    parser.add_argument("--output-dir", default="tmp/reference-components/shape-assets")
     parser.add_argument(
         "--exclude-geoms",
         default="rect,roundRect",
