@@ -1,0 +1,4 @@
+interface:
+  display_name: "Siemens Advanta Storytelling"
+  short_description: "生成咨询式 Storytelling、章节结构与 PPT 大纲"
+  default_prompt: "请使用 $siemens-storytelling 基于客户场景生成咨询式 Storytelling 和逐页 PPT 大纲。"
