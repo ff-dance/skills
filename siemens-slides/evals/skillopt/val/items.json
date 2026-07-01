@@ -1,0 +1,90 @@
+[
+  {
+    "id": "val-001",
+    "user_request": "做一页方案推荐页。",
+    "source_material": "管理层只给了标题“方案介绍”，但实际想知道应该选本地部署还是云端方案；需要明确判断和理由。",
+    "input_type": "D",
+    "expected_page_question": "在当前条件下，哪种 APS 部署模式更值得推荐？",
+    "expected_reasoning_pattern": "⑥ 对比分析",
+    "must_include": ["推荐结论", "推荐理由", "避免弱标题"],
+    "must_avoid": ["标题仍叫方案介绍", "只有对比没有判断"],
+    "expected_overflow_recommendation": "single-page"
+  },
+  {
+    "id": "val-002",
+    "user_request": "做一页董事会汇报摘要页。",
+    "source_material": "要点包括投资、收益、路径，但页面必须显得非常稳，footer 和品牌不能出错。",
+    "input_type": "A",
+    "expected_page_question": "这项投资为什么值得董事会批准，并应如何用一页摘要说明？",
+    "expected_reasoning_pattern": "⑤ 结构化总览",
+    "must_include": ["标准 footer family", "中文强标题", "简洁摘要"],
+    "must_avoid": ["footer 居中漂浮", "logo 过大", "海报化"],
+    "expected_overflow_recommendation": "single-page"
+  },
+  {
+    "id": "val-003",
+    "user_request": "做一页数据闭环页。",
+    "source_material": "计划、制造、库存、质量和设备状态需要在不同系统之间形成闭环，重点是异常回传。",
+    "input_type": "B",
+    "expected_page_question": "异常信息如何在计划、执行与库存之间形成有效闭环？",
+    "expected_reasoning_pattern": "⑰ 端到端数据流",
+    "must_include": ["异常回传", "清晰流向", "单一主链"],
+    "must_avoid": ["节点网络图过密", "没有闭环信号"],
+    "expected_overflow_recommendation": "single-page"
+  },
+  {
+    "id": "val-004",
+    "user_request": "把一段很乱的纪要整理成可读的一页。",
+    "source_material": "纪要里同时提到销售插单、主数据错误、物料缺件、班组执行纪律差、报工延迟、接口不稳定，想知道真正先抓什么。",
+    "input_type": "C",
+    "expected_page_question": "面对多种表面问题，当前最值得优先处理的根因是什么？",
+    "expected_reasoning_pattern": "② 根因分析",
+    "must_include": ["优先根因", "因果链", "不要平铺问题列表"],
+    "must_avoid": ["每个问题都讲一点", "没有干预点"],
+    "expected_overflow_recommendation": "single-page"
+  },
+  {
+    "id": "val-005",
+    "user_request": "把现状、目标、路线图和 ROI 一起放一页。",
+    "source_material": "管理层时间不够，但这其实是四个不同问题；你要先给合理处理建议。",
+    "input_type": "D",
+    "expected_page_question": "面对明显超载的输入，应该如何处理页面范围才不牺牲主判断？",
+    "expected_reasoning_pattern": "⑤ 结构化总览",
+    "must_include": ["拆页或压缩建议", "范围管理"],
+    "must_avoid": ["默认 single-page", "硬塞四个问题"],
+    "expected_overflow_recommendation": "suggest-split"
+  },
+  {
+    "id": "val-006",
+    "user_request": "做一页战略路径页。",
+    "source_material": "六个月稳定计划，一年打通库存协同，两年形成 AI 调度能力；管理层只关心阶段主线。",
+    "input_type": "B",
+    "expected_page_question": "这项能力建设应如何按阶段推进，主线是什么？",
+    "expected_reasoning_pattern": "⑭ 战略路线图",
+    "must_include": ["阶段主线", "里程碑", "不要细节甘特"],
+    "must_avoid": ["节点过密", "没有阶段差异"],
+    "expected_overflow_recommendation": "single-page"
+  },
+  {
+    "id": "val-007",
+    "user_request": "做一页速赢项页。",
+    "source_material": "要在 90 天内看见结果，候选动作很多，但管理层只愿意先批 3 件事。",
+    "input_type": "B",
+    "expected_page_question": "如果只先做 3 个动作，哪些最值得优先推进？",
+    "expected_reasoning_pattern": "㉓ 速赢清单",
+    "must_include": ["Top 3", "收益和优先级", "短期可落地"],
+    "must_avoid": ["动作过多", "没有排序", "长期战略混入"],
+    "expected_overflow_recommendation": "single-page"
+  },
+  {
+    "id": "val-008",
+    "user_request": "整理一页蓝图页。",
+    "source_material": "用户说想看全景，但真正需要的是分层骨架，而不是接口清单。",
+    "input_type": "D",
+    "expected_page_question": "这张蓝图页应如何突出目标架构骨架，而不是沦为系统清单？",
+    "expected_reasoning_pattern": "⑪ 技术架构蓝图",
+    "must_include": ["分层骨架", "核心平台层", "结构优先"],
+    "must_avoid": ["接口清单", "系统方块过多", "无骨架"],
+    "expected_overflow_recommendation": "single-page"
+  }
+]

@@ -1,7 +1,7 @@
 # Footer Geometry Extracted From Advanta Template
 
 来源模板：
-- `/Users/dare2dream/Documents/Projects/dx/assets/Siemens Advanta_slidelibrary_v2.pptx`
+- Advanta slide library template 源文件的本地工作副本
 - slide size：`12192000 x 6858000 EMU`
 - 比例：`16:9`
 

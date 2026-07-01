@@ -1,0 +1,90 @@
+[
+  {
+    "id": "test-001",
+    "user_request": "做一页管理层结论页，解释为什么现在必须先稳计划再谈 AI。",
+    "source_material": "计划波动大、异常反应慢、AI 数据基础弱；需要一句有力度的标题和一个 hero 证据区。",
+    "input_type": "A",
+    "expected_page_question": "为什么必须先稳定计划基本盘，AI 才会真正发挥价值？",
+    "expected_reasoning_pattern": "⑤ 结构化总览",
+    "must_include": ["强结论标题", "hero 证据", "中文收束"],
+    "must_avoid": ["口号化 AI 标题", "多问题并列"],
+    "expected_overflow_recommendation": "single-page"
+  },
+  {
+    "id": "test-002",
+    "user_request": "做一页标杆对比页。",
+    "source_material": "对比对象是行业前三工厂，重点看计划冻结、库存协同和异常预警；希望一页看出差距。",
+    "input_type": "B",
+    "expected_page_question": "与行业标杆相比，我们当前最关键的能力差距是什么？",
+    "expected_reasoning_pattern": "㉑ 标杆对比",
+    "must_include": ["差距结论", "对标维度", "不是纯表格"],
+    "must_avoid": ["事实堆砌", "没有总结"],
+    "expected_overflow_recommendation": "single-page"
+  },
+  {
+    "id": "test-003",
+    "user_request": "管理层坚持一页讲完现状、方案和路径。",
+    "source_material": "信息明显过多，但不允许加页；需要保住一个主结论并说明是压缩视图。",
+    "input_type": "D",
+    "expected_page_question": "在必须压缩成单页的前提下，应如何保住管理层最关心的主结论？",
+    "expected_reasoning_pattern": "⑤ 结构化总览",
+    "must_include": ["compressed-single-page", "主结论优先", "牺牲说明"],
+    "must_avoid": ["假装是普通单页", "全量塞入"],
+    "expected_overflow_recommendation": "compressed-single-page"
+  },
+  {
+    "id": "test-004",
+    "user_request": "做一页治理页，讲清集团和工厂怎么分工。",
+    "source_material": "集团 IT 管平台，工厂业务部门管规则，项目办管推进，供应商管交付；要显得非常企业化。",
+    "input_type": "B",
+    "expected_page_question": "集团、工厂、项目办与供应商之间的治理分工应如何被清晰界定？",
+    "expected_reasoning_pattern": "⑯ 组织与治理",
+    "must_include": ["治理骨架", "角色分工", "企业化表达"],
+    "must_avoid": ["组织树细节", "角色混乱"],
+    "expected_overflow_recommendation": "single-page"
+  },
+  {
+    "id": "test-005",
+    "user_request": "做一页 ROI 说明页。",
+    "source_material": "目标是在 18 个月内回本，库存、效率和交付都有量化收益；需要让管理层 10 秒看懂。",
+    "input_type": "B",
+    "expected_page_question": "这项投入的核心财务回报是否足以支撑当前决策？",
+    "expected_reasoning_pattern": "⑬ ROI",
+    "must_include": ["回收期 hero", "收益来源", "快速可读"],
+    "must_avoid": ["普通财务列表", "没有主数字"],
+    "expected_overflow_recommendation": "single-page"
+  },
+  {
+    "id": "test-006",
+    "user_request": "做一页 AI 发现价值页。",
+    "source_material": "传统判断认为瓶颈在设备故障，但 AI 识别出真实瓶颈是换型与班组切换规则；要体现 AI 与传统判断差异。",
+    "input_type": "C",
+    "expected_page_question": "AI 发现了什么传统经验没有看见的关键根因？",
+    "expected_reasoning_pattern": "⑨ AI驱动根因发现",
+    "must_include": ["传统判断 vs AI 发现", "差异价值", "单一主发现"],
+    "must_avoid": ["把 AI 当口号", "没有差异对照"],
+    "expected_overflow_recommendation": "single-page"
+  },
+  {
+    "id": "test-007",
+    "user_request": "做一页系统数据流页。",
+    "source_material": "ERP、APS、MES、WMS、设备平台之间都有交互，但页面只想保住主链路，不想变复杂架构图。",
+    "input_type": "B",
+    "expected_page_question": "跨系统数据的主链路应该如何被一页清楚表达？",
+    "expected_reasoning_pattern": "⑰ 端到端数据流",
+    "must_include": ["主链路", "箭头方向", "系统边界"],
+    "must_avoid": ["复杂网络图", "边界不清"],
+    "expected_overflow_recommendation": "single-page"
+  },
+  {
+    "id": "test-008",
+    "user_request": "做一页风险页，提醒管理层先盯住哪些风险。",
+    "source_material": "风险包括数据质量、关键用户参与、接口依赖和实施节奏；需要有优先级，不要把所有风险都讲一遍。",
+    "input_type": "C",
+    "expected_page_question": "哪些风险最需要管理层优先盯住，为什么？",
+    "expected_reasoning_pattern": "㉒ 风险全景图",
+    "must_include": ["Top 风险", "优先级", "受控风险提示"],
+    "must_avoid": ["风险泛滥", "橙色滥用", "没有主风险"],
+    "expected_overflow_recommendation": "single-page"
+  }
+]

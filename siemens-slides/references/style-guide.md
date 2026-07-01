@@ -128,7 +128,7 @@ Footer 几何锚点以本 skill 内 Advanta 母版的普通内容页 family 为�
   - `right_edge = 96.68%`
 
 提取来源与变体说明：
-- 精确坐标提取自 `/Users/dare2dream/Documents/Projects/dx/assets/Siemens Advanta_slidelibrary_v2.pptx`
+- 精确坐标提取自 Advanta 模板源文件，并整理为本仓库参考数据
 - 详见 `references/footer-geometry-extracted.md`
 - 普通内容页使用 compact `SIEMENS` logo family；封面 / 章节 / 特殊页允许使用更大的 large logo family，但不要混用到普通内容页
 
